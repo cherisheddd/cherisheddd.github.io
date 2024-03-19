@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qahwah on </title>
+    <link>/coffee/</link>
+    <description>Recent content in Qahwah on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/coffee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>قهوة تركية وعربية</title>
+      <link>/coffee/turkish_and_arabic/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/coffee/turkish_and_arabic/</guid><media:content url="/coffee/turkish_and_arabic/1710840622440_hue30d92d303095ab90d2e3628ed585939_54925_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;/coffee/turkish_and_arabic/1710840622440_hue30d92d303095ab90d2e3628ed585939_54925_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

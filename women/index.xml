@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>زنان on </title>
+    <link>/women/</link>
+    <description>Recent content in زنان on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/women/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>زنان</title>
+      <link>/women/album/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/women/album/</guid><media:content url="/women/album/1710838596831_hu3a3e82a8b7b94682a34ec44ee0d4680e_201136_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;/women/album/1710838596831_hu3a3e82a8b7b94682a34ec44ee0d4680e_201136_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
